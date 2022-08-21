@@ -3,16 +3,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/christian-patrick-a3a893134/">
+  <a href="https://www.linkedin.com/in/christian-patrick-a3a893134/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/cs.gerald_patrick/">
+  <a href="https://www.instagram.com/cs.gerald_patrick/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://sancloversan.xyz/">
+  <a href="https://sancloversan.xyz/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Wordpress-green?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
   </a>
-  <a href="https://gitlab.com/sanCloverSan">
+  <a href="https://gitlab.com/sanCloverSan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gitlab-yellow?style=for-the-badge&logo=gitlab&logoColor=white" alt="Wordpress Badge"/>
   </a>
   <br>
