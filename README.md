@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ---
 ### :man_technologist:About Me
 - 👨‍🎓 I'm a final year student from Bandung, Indonesia
-- 🔭 I'm currently having an internship as System Administrator at FTIS UNPAR and Backend Engineer Specialist at Sagara Technology
+- 🔭 I'm currently having an internship as System Administrator at FTIS UNPAR
 - 🌱 I’m currently learning golang
 - ⚡In my free time I listen to music, sleep, playing CTF, writing CTF write-ups, or just sit and enjoy the evening with a cup of coffee
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-patrick-a3a893134/)
